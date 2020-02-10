@@ -2,7 +2,7 @@
 	"file": "https://raw.githubusercontent.com/Turckie/UpSetData/master/Matrix.txt",
 	"name": "TRB",
 	"header": 0,
-	"separator": ";",
+	"separator": "\t",
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "AGI" }
